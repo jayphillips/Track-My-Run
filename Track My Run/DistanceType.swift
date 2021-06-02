@@ -6,3 +6,8 @@
 //
 
 import Foundation
+
+enum DistanceType: String {
+    case miles = "MI"
+    case kilometers = "KM"
+}
